@@ -12,5 +12,7 @@ Simple tool to encrypt and decrypt files using Python.
 ### CLI Version
 ```bash
 python main.py
+python giu.py
+
 
 
